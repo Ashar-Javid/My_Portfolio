@@ -29,9 +29,7 @@
         "emmet.includeLanguages": {
           "javascript": "javascriptreact"
         },
-        "emmet.triggerExpansionOnTab": true,
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
+        "emmet.triggerExpansionOnTab": true
       }
     }
   },

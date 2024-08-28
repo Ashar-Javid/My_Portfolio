@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/workspace.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,40 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Life Chess",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A Visual Novel game created using Renpy. It is a story of a prince who learns the meaning of life and power through the challenges given by his father to prove himself as capable to the throne.",
+    url: "https://ashar-javid.itch.io/life-chess",
   },
   {
-    title: "Web Development for Beginners",
+    title: "XploreBot",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Your personal travel guide to help you explore the world. From making your travel itinerary to acting as your tour guide, XPlore Bot is your go-to place for all sorts of travel. It can help you find hotels, flights, tourist spots, directions, and even tell you about the weather.",
+    url: "https://xplore-bot.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "E-Deviser",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A gamified LMS platform for students to learn in an engaging environment. Virtual Classrooms, AI Tutor, LeaderBoards, Badges and much more to make learning fun.\nProfessor AI is one of the most sophisticated AI teachers to make complex concepts easy for the students.",
+    url: "https://edeviser.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Researchio",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A desktop tool for Research assistance developed for inhouse use. Beta version to be deployed soon.",
+    url: "",
+  },
+  {
+    title: "3D Hand Reconstruction using Transformer",
+    description:
+      "Research Project on the development of a generative AI pipeline for real time hand reconstruction using monocular RGB input using transformer based pipeline.",
+    url: "",
+  },
+  {
+    title: "Wireless SSTC Tesla Coil",
+    description:
+      "Research Project on the development of a wireless Solid State Tesla Coil for power transmission upto 2 meters with an exceptional efficiency of 70% at a voltage of 120kV.",
+    url: "",
   },
 ];
 

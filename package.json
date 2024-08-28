@@ -1,13 +1,13 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "my-portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "My_Portfolio",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "https://github.com/Ashar-Javid/My_Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://github.com/Ashar-Javid/My_Portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
   },
-  "author": "Microsoft",
+  "author": "Muhammad Ashar Javid",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
